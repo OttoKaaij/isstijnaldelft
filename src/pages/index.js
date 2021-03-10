@@ -4,7 +4,7 @@ import Img from "gatsby-image"
 export default function Home({ data }) {
   return (
     <div className="main" style={{ display: "flex", flexDirection: "column" }}>
-      Website hier, Tijs, ga bouwen.
+      Website hier, Tijs, ga bouwen. SNEL!
       <Img
         style={{ marginTop: "1em" }}
         fixed={data.file.childImageSharp.fixed}
